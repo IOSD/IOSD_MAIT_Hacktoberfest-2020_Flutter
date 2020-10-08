@@ -22,9 +22,7 @@ class MyApp extends StatelessWidget {
                     fontSize: 30,
                     fontFamily: 'Galada',
                     color: Colors.white,
-                    // fontWeight:FontWeight.bold,
                     letterSpacing: 2.0,
-                    //fontStyle: FontStyle.italic,
                   ),
                 ),
                 SizedBox(
@@ -92,29 +90,6 @@ class MyApp extends StatelessWidget {
                     ),
                   ),
                 ),
-                /* Container(
-                  color: Colors.white,
-                  margin: EdgeInsets.symmetric(vertical: 6, horizontal: 35),
-                  padding: EdgeInsets.symmetric(vertical: 6, horizontal: 10),
-                  child: Row(
-                    children: <Widget>[
-                      Icon(
-                        Icons.email,
-                        color: Colors.teal,
-                        size: 35,
-                      ),
-                      SizedBox(width: 20),
-                      Text(
-                        " sarveshFlutterDev@gmail.com",
-                        style: TextStyle(
-                          fontWeight: FontWeight.bold,
-                          wordSpacing: 2,
-                          fontSize: 16,
-                        ),
-                      ),
-                    ],
-                  ),
-                ),*/
               ],
             ),
           )),

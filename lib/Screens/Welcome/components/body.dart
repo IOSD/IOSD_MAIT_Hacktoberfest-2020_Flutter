@@ -2,10 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import 'package:IOSDMaitApp/Screens/Welcome/components/background.dart';
 import 'package:IOSDMaitApp/components/rounded_button.dart';
-//import 'package:flutter_svg/svg.dart';
 import 'package:url_launcher/url_launcher.dart';
 //import 'package:provider/provider.dart';
-//import 'package:MyNewLogin/MyCard.dart';
 import 'package:IOSDMaitApp/Screens/DeveloperScreen.dart';
 
 class Body extends StatefulWidget {
@@ -80,8 +78,6 @@ class _BodyState extends State<Body> {
                               overflow: TextOverflow.ellipsis,
                               style: TextStyle(
                                 fontSize: 13.5,
-                                //color: Colors.grey,
-                                //fontStyle: FontStyle.italic,
                                 fontWeight: FontWeight.normal,
                               ),
                             ),
@@ -107,7 +103,6 @@ class _BodyState extends State<Body> {
             height: 92,
 
             child: _socilaMediaHandles(),
-            //color: Colors.red,
           ),
         ],
       ),

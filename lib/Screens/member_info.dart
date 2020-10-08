@@ -138,7 +138,6 @@ class MemberDetailScreen extends StatelessWidget {
                         textAlign: TextAlign.center,
                         overflow: TextOverflow.ellipsis,
                         style: TextStyle(
-                          // fontFamily: 'Galada',
                           fontFamily: 'LobsterTwo',
                           fontSize: 16,
                           letterSpacing: 0.4,
