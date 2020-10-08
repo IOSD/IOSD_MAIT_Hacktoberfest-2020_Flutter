@@ -47,7 +47,7 @@
 
 - Open a terminal and run the following git command :
 
-`git clone https://github.com/<your-user-name>/IOSDMaitApp.git`
+`git clone https://github.com/<your-user-name>/IOSD_MAIT_Hacktoberfest-2020_Flutter.git`
 
 ### Step 3: Create a branch
 
@@ -55,7 +55,7 @@
 
 Change to the repository directory on your computer (if you are not already there):
 
-`cd IOSDMaitApp`
+`cd IOSD_MAIT_Hacktoberfest-2020_Flutter`
 
 Now create a branch using the `git checkout` command:
 
