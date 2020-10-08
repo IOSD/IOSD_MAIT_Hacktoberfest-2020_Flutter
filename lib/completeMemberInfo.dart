@@ -107,6 +107,16 @@ class AllMembers {
         githubURL: 'https://github.com/shivanshugarg12800',
         linkedInURL: 'https://www.linkedin.com/in/shivanshugarg12',
         status: 'Web Designer'),
+    Member(
+        name: 'Prakhar Maheshwari',
+        year: '3rd',
+        department: 'Computer Science',
+        profilePic: 'assets/profilesPic/Prakhar Maheshwari.jpg',
+        aboutMe:
+            'I am a machine learning enthusiast.',
+        githubURL: 'https://github.com/prakhar154',
+        linkedInURL: 'https://www.linkedin.com/in/prakhar154',
+        status: 'Data Scientist')
   ];
 
   static List<Member> get members {
