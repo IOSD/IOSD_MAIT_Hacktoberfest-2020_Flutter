@@ -28,9 +28,10 @@
 
   | Welcome Screen                                                   | Developers Screen                                                 | Developer's Info                                              |
 | -------------------------------------------------------------- | ----------------------------------------------------------------------- | -------------------------------------------------------------------- |
-| <img src="assets/images/WelcomePage.jpg" width=200 alt="Home Page"> | <img src="assets/images/DevelopersScreen.jpg" width=200 alt="Category Screen"> | <img src="assets/images/DeveloperInfoScreen.jpg" width=200 alt="Navigation Drawer"> |
+| <img src="assets/images/WelcomePage.jpg" width=250 alt="Home Page"> | <img src="assets/images/DevelopersScreen.jpg" width=250 alt="Category Screen"> | <img src="assets/images/DeveloperInfoScreen.jpg" width=250 alt="Navigation Drawer"> |
 
 
+# Go through the  `CONTRIBUTORS.md`  file  to get to know about how and what may you contribute in this project.
 
 ## Steps for your contribution:
 
