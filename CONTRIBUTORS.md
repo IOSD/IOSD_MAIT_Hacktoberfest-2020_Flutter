@@ -21,7 +21,7 @@ Department=Your department of graduation
 
 ProfilePic=Path to your profile photo
 
-AboutMe= A brief introduction about yourself
+AboutMe= A brief introduction about yourself in max 2-3 lines
 
 faceboobURL=Your facebook account url
 
