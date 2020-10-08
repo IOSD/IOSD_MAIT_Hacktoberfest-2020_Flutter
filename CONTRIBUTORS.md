@@ -39,3 +39,5 @@ I have already added my info.  I have also added info of other developers for de
 
 
 If you don't have url for the facebook,github & linkedIn, just remove that field.
+
+## Please attach the screenshot of your Profile Card(i.e., your developer info screen) which you have pushed. See the Developer's info Screen in the screenshots section of the readme for your reference.
