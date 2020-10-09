@@ -1,28 +1,22 @@
 /*
 Plese go though the "Contributors.md" file before you start coding or editing.
-
 However the guidelines are as follows:
 1) This is the only file which you need to edit to contribute in the development. However, you can always look at other files in the codebase incase you are inquisitive enough.
-
 2)Now, What to edit in this file?
 All you need is to create one more member object below within the list _members and provide all the details about yourself. Also, before this make sure your profile picture is in the assets/profile folder. 
-
 The fields in the member class are:
 Name=your name
 Year=your year of study in college
 Department=your department of graduation
 ProfilePic=path to your profile photo
 AboutMe= A brief introduction about yourself in maximum 2-3 lines.
-faceboobUrl=your facebook account url
+facebookUrl=your facebook account url
 GithubURl=your github account url
 LinkedInURl=your linkedIn account url
 Status= A 2-3 word technical expertise
-
 Remember all are string input.
 I have already added my info. I have also added info of other developers for demonstration purpose.In same manner you need to add yours.
-
 If you don't have url for the fb ,github & linkedIn, just remove that field.
-
 */
 
 import 'package:IOSDMaitApp/Screens/member.dart';
@@ -58,11 +52,12 @@ class AllMembers {
       year: '4th',
       department: 'Information Technology',
       profilePic: 'assets/profilesPic/SamakshS.jpeg',
-      aboutMe: 'President of IOSD -MAIT',
+      aboutMe:
+          'President at IOSD -MAIT, Experienced Python Developer, skilled in Cloud Computing and Amazon-AWS.',
       facebookURL: 'https://www.facebook.com/profile.php?id=100012922746311',
       githubURL: 'https://www.instagram.com/samaksh_singh_/',
       linkedInURL: 'https://www.linkedin.com/in/samaksh-singh-30640216a',
-      status: 'Java and Python developer',
+      status: 'Java and Python Developer',
     ),
     Member(
         name: 'Shubh Bansal',
@@ -107,7 +102,7 @@ class AllMembers {
         githubURL: 'https://github.com/shivanshugarg12800',
         linkedInURL: 'https://www.linkedin.com/in/shivanshugarg12',
         status: 'Web Designer'),
-        Member(
+    Member(
         name: 'Rashmi',
         year: '2nd',
         department: 'Computer Science',
