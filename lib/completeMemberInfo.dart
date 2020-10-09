@@ -58,11 +58,11 @@ class AllMembers {
       year: '4th',
       department: 'Information Technology',
       profilePic: 'assets/profilesPic/SamakshS.jpeg',
-      aboutMe: 'President of IOSD -MAIT',
+      aboutMe: 'President at IOSD -MAIT, Experienced Python Developer, skilled in Cloud Computing and Amazon-AWS.',
       facebookURL: 'https://www.facebook.com/profile.php?id=100012922746311',
       githubURL: 'https://www.instagram.com/samaksh_singh_/',
       linkedInURL: 'https://www.linkedin.com/in/samaksh-singh-30640216a',
-      status: 'Java and Python developer',
+      status: 'Java and Python Developer',
     ),
     Member(
         name: 'Shubh Bansal',
