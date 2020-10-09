@@ -78,7 +78,7 @@ Now create a branch using the `git checkout` command:
 | name              | Your Full name                               |
 | year              | Your present year of college                 |
 | department        | Your branch                                  |
-| profilePath       | The path where you stored your profile photo |
+| profilePic        | The path where you stored your profile photo |
 | aboutMe           | A brief description about yourself           |
 | facebookUrl       | Your Facebook account url                    |
 | githubUrl         | Your Github account url                      |
