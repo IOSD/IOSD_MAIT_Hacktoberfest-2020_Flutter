@@ -21,8 +21,8 @@ class _BodyState extends State<Body> {
     return Background(
       child: Column(
         mainAxisAlignment: MainAxisAlignment.center,
+        crossAxisAlignment: CrossAxisAlignment.center,
         children: <Widget>[
-          SizedBox(height: 35),
           Container(
             //height: 10,
             margin: EdgeInsets.fromLTRB(15, 0.6, 15, 1.6),

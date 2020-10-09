@@ -9,7 +9,7 @@ class TileStructure extends StatelessWidget {
   Widget build(BuildContext context) {
     return Container(
       margin: EdgeInsets.only(left: 7.6, right: 7.6, top: 18),
-      height: MediaQuery.of(context).size.height / 8.5,
+      height: MediaQuery.of(context).size.height / 7.5,
       width: MediaQuery.of(context).size.width,
       child: Card(
         shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(16)),
