@@ -2,8 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\assets",
+    "\\assets\\images",
+    "\\assets\\profilesPic",
     "\\lib"
   ],
-  "SelectedNode": "\\assets\\profilesPic",
+  "SelectedNode": "\\assets\\profilesPic\\Safal.jpg",
   "PreviewInSolutionExplorer": false
 }

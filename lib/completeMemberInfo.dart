@@ -111,7 +111,7 @@ class AllMembers {
         year: '3rd',
         department: 'Computer Science and Information Technology',
         profilePic: 'assets/profiles/Safal.jpg',
-        aboutMe: 'I am a computer science student and want be start my carrer as fullstack developer.',
+        aboutMe: 'I am a hardworking computer science student and want be start my carrer as fullstack developer. Simply put I am a learner.',
         facebookURL: 'https://www.facebook.com/safal08',
         githubURL: 'https://github.com/Safal08',
         linkedInURL: 'https://www.linkedin.com/in/s%C3%A1f%C3%A0l-m%C3%A1h%C3%A0t-2056b2194/',
