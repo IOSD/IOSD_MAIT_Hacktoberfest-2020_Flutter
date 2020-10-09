@@ -113,6 +113,17 @@ class AllMembers {
         githubURL: 'https://github.com/',
         linkedInURL: 'https://www.linkedin.com/',
         status: 'UI/UX Designer'),
+    Member(
+        name: 'Khush Ramdev',
+        year: '2nd',
+        department: 'Information Technology',
+        profilePic: 'assets/profilesPic/Khush-Ramdev.jpeg',
+        aboutMe:
+            'A budding Web-developer, 5 Star in C++ and JS on HackerRank, learning React, ',
+        facebookURL: 'https://www.facebook.com/Khush.Ramdev.08/',
+        githubURL: 'https://github.com/Khush-Ramdev',
+        linkedInURL: 'https://www.linkedin.com/in/khush-ramdev-992b141a0/',
+        status: 'Member'), 
   ];
 
   static List<Member> get members {
