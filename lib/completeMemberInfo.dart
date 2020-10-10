@@ -1,9 +1,14 @@
-/*
+﻿/*
 Plese go though the "Contributors.md" file before you start coding or editing.
 However the guidelines are as follows:
 1) This is the only file which you need to edit to contribute in the development. However, you can always look at other files in the codebase incase you are inquisitive enough.
 2)Now, What to edit in this file?
+
+All you need is to create one more member object below within the list _members and provide all the details about yourself. Also, before this make sure your profile picture is in the assets/profile folder.
+
+
 All you need is to create one more member object below within the list _members and provide all the details about yourself. Also, before this make sure your profile picture is in the assets/profile folder. 
+
 The fields in the member class are:
 Name=your name
 Year=your year of study in college
@@ -102,6 +107,10 @@ class AllMembers {
         githubURL: 'https://github.com/shivanshugarg12800',
         linkedInURL: 'https://www.linkedin.com/in/shivanshugarg12',
         status: 'Web Designer'),
+
+
+        
+
     Member(
         name: 'Rashmi',
         year: '2nd',
@@ -124,6 +133,18 @@ class AllMembers {
         githubURL: 'https://github.com/Khush-Ramdev',
         linkedInURL: 'https://www.linkedin.com/in/khush-ramdev-992b141a0/',
         status: 'Member'), 
+
+     Member(
+        name: 'Sidhant Thakur',
+        year: '2nd',
+        department: 'Information Technology',
+        profilePic: 'assets/profilesPic/SIDHANT THAKUR.png',
+        aboutMe:
+            'A beginner willing to learn and explore new things and technologies in IT field',
+
+        githubURL: 'https://github.com/SIDHANT2001',
+        linkedInURL: 'https://www.linkedin.com/in/sidhant-thakur-138673160/',
+        status: 'BEGINNER '),
   ];
 
   static List<Member> get members {
