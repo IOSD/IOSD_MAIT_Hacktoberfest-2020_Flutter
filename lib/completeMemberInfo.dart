@@ -1,4 +1,4 @@
-/*
+﻿/*
 Plese go though the "Contributors.md" file before you start coding or editing.
 
 However the guidelines are as follows:
@@ -112,7 +112,7 @@ class AllMembers {
         name: 'Sidhant Thakur',
         year: '2nd',
         department: 'Information Technology',
-        profilePic: 'C:\Users\monica.mycp\IOSD_MAIT_Hacktoberfest-2020_Flutter\assets\profilesPic',
+        profilePic: 'assets/profilesPic/SIDHANT THAKUR.png',
         aboutMe:
             'A beginner willing to learn and explore new things and technologies in IT field',
 
