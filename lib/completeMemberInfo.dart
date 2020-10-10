@@ -1,4 +1,4 @@
-/*
+﻿/*
 Plese go though the "Contributors.md" file before you start coding or editing.
 
 However the guidelines are as follows:
@@ -107,6 +107,18 @@ class AllMembers {
         githubURL: 'https://github.com/shivanshugarg12800',
         linkedInURL: 'https://www.linkedin.com/in/shivanshugarg12',
         status: 'Web Designer'),
+
+ Member(
+        name: 'Sidhant Thakur',
+        year: '2nd',
+        department: 'Information Technology',
+        profilePic: 'assets/profilesPic/SIDHANT THAKUR.png',
+        aboutMe:
+            'A beginner willing to learn and explore new things and technologies in IT field',
+
+        githubURL: 'https://github.com/SIDHANT2001',
+        linkedInURL: 'https://www.linkedin.com/in/sidhant-thakur-138673160/',
+        status: 'BEGINNER '),
   ];
 
   static List<Member> get members {
