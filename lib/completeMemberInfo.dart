@@ -37,6 +37,17 @@ class AllMembers {
             'https://www.linkedin.com/in/sarvesh-nath-tiwari-5575a218a',
         status: 'Flutter Developer'),
     Member(
+        name: 'Shoaib Ahmed',
+        year: '4th',
+        department: 'Computer Science',
+        profilePic: 'assets/profilesPic/shobu.jpg',
+        aboutMe:
+            'I work as a full-time Android developer, but i also work with other technologies such as Angular, Flutter and Selenium for testing.',
+        facebookURL: 'https://www.facebook.com/shobu95/',
+        githubURL: 'https://github.com/Shobu95',
+        linkedInURL: 'https://www.linkedin.com/in/shoaib95/',
+        status: 'Android Developer'),
+    Member(
         name: 'Nandeesh Gupta',
         year: '3rd',
         department: 'Computer Science',
