@@ -107,6 +107,16 @@ class AllMembers {
         githubURL: 'https://github.com/shivanshugarg12800',
         linkedInURL: 'https://www.linkedin.com/in/shivanshugarg12',
         status: 'Web Designer'),
+     Member(
+        name: 'Gaurav kanojia',
+        year: '2nd',
+        department: 'Information Technology',
+        profilePic: 'assets/profilesPic/Gaurav.jpg',
+        aboutMe:
+            'Hey coders, My fields of interest in web development and android development . I love to create unique designs and always there to learn   ',
+        githubURL: 'https://github.com/Gaurav-kano',
+        linkedInURL: 'https://www.linkedin.com/in/gaurav-kanojia-0a6967198',
+        status: 'Web Developer'), 
   ];
 
   static List<Member> get members {
