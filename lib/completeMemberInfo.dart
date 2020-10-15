@@ -123,7 +123,18 @@ class AllMembers {
         facebookURL: 'https://www.facebook.com/Khush.Ramdev.08/',
         githubURL: 'https://github.com/Khush-Ramdev',
         linkedInURL: 'https://www.linkedin.com/in/khush-ramdev-992b141a0/',
-        status: 'Member'), 
+        status: 'Member'),
+    Member(
+      name: 'Aman Srivastava',
+      year: '3rd',
+      department: 'Information Technology',
+      profilePic: 'assets/profiles/amanSrivastava.jpg',
+      aboutMe: 'Flutter Enthusiast',
+      facebookURL: 'https://www.facebook.com/aman121098/',
+      githubURL: 'https://github.com/aman1210',
+      linkedInURL: 'https://www.linkedin.com/in/aman-srivastava-973297199/',
+      status: 'Learning :D',
+    ),
   ];
 
   static List<Member> get members {
