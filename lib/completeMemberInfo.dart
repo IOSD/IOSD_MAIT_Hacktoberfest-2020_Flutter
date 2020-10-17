@@ -128,7 +128,7 @@ class AllMembers {
       name: 'Aman Srivastava',
       year: '3rd',
       department: 'Information Technology',
-      profilePic: 'assets/profiles/amanSrivastava.jpg',
+      profilePic: 'assets/profilesPic/amanSrivastava.jpg',
       aboutMe: 'Flutter Enthusiast',
       facebookURL: 'https://www.facebook.com/aman121098/',
       githubURL: 'https://github.com/aman1210',
