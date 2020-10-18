@@ -135,6 +135,17 @@ class AllMembers {
       linkedInURL: 'https://www.linkedin.com/in/aman-srivastava-973297199/',
       status: 'Learning :D',
     ),
+     Member(
+      name: 'Shubham Singla',
+      year: '3rd',
+      department: 'Information Technology',
+      profilePic: 'assets/profilesPic/image2AP.jpg',
+      aboutMe: 'Product Desinger',
+      facebookURL: 'https://www.facebook.com/shubham.singla.3114',
+      githubURL: 'https://github.com/shubhamsingla807',
+      linkedInURL: 'https://www.linkedin.com/in/shubhamsingla/',
+      status: 'Learning',
+    ),
   ];
 
   static List<Member> get members {
