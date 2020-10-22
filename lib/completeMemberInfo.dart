@@ -135,7 +135,7 @@ class AllMembers {
       linkedInURL: 'https://www.linkedin.com/in/aman-srivastava-973297199/',
       status: 'Learning :D',
     ),
-     Member(
+    Member(
       name: 'Shubham Singla',
       year: '3rd',
       department: 'Information Technology',
@@ -145,6 +145,17 @@ class AllMembers {
       githubURL: 'https://github.com/shubhamsingla807',
       linkedInURL: 'https://www.linkedin.com/in/shubhamsingla/',
       status: 'Learning',
+    ),
+    Member(
+      name: 'Praneeth Fernando',
+      year: '4rd',
+      department: 'Computer Science',
+      profilePic: 'assets/profilesPic/praneethfdo.jpg',
+      aboutMe: 'Software Engineer',
+      facebookURL: 'https://www.facebook.com/praneethfdo',
+      githubURL: 'https://github.com/praneethfdo',
+      linkedInURL: 'https://www.linkedin.com/in/praneethfdo/',
+      status: 'Working',
     ),
   ];
 
