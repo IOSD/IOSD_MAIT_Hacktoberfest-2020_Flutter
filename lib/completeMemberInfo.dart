@@ -24,6 +24,17 @@ import 'package:IOSDMaitApp/Screens/member.dart';
 class AllMembers {
   static List<Member> _members = [
     Member(
+      name: 'Keshav Kaushik',
+      year: '3rd',
+      department: 'CSE-Mobile Comupting',
+      profilePic: 'assets/profilesPic/keshkaush.png',
+      aboutMe: 'Flutter Developer',
+      facebookURL: 'https://www.facebook.com/adward.francis.7/',
+      githubURL: 'https://github.com/keshkaush',
+      linkedInURL: 'https://www.linkedin.com/in/keshkaush/',
+      status: 'Java programmer',
+    ),
+    Member(
         name: 'Sarvesh Nath Tiwari',
         year: '3rd',
         department: 'Computer Science',
@@ -135,7 +146,7 @@ class AllMembers {
       linkedInURL: 'https://www.linkedin.com/in/aman-srivastava-973297199/',
       status: 'Learning :D',
     ),
-     Member(
+    Member(
       name: 'Shubham Singla',
       year: '3rd',
       department: 'Information Technology',
