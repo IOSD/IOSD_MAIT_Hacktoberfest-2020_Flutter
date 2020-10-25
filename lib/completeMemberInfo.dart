@@ -147,6 +147,19 @@ class AllMembers {
       status: 'Learning',
     ),
     Member(
+
+      name: 'Harsh Verma',
+      year: '3rd',
+      department: 'Electronics and Communication',
+      profilePic: 'assets/profilesPic/harsh-profile-pic.jpeg',
+      aboutMe: 'A MERN stack developer eager to learn new things :)',
+      facebookURL: 'https://www.facebook.com/harshverma9988/',
+      githubURL: 'https://github.com/harshv9988',
+      linkedInURL: 'https://www.linkedin.com/in/harsh-verma-1b9772170/',
+      status: 'Learning',
+      ),
+      Member(
+
       name: 'Praneeth Fernando',
       year: '4rd',
       department: 'Computer Science',
@@ -156,6 +169,7 @@ class AllMembers {
       githubURL: 'https://github.com/praneethfdo',
       linkedInURL: 'https://www.linkedin.com/in/praneethfdo/',
       status: 'Working',
+
     ),
   ];
 
