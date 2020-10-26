@@ -146,7 +146,29 @@ class AllMembers {
       linkedInURL: 'https://www.linkedin.com/in/shubhamsingla/',
       status: 'Learning',
     ),
-    Member(
+      name: 'Harsh Verma',
+      year: '3rd',
+      department: 'Electronics and Communication',
+      profilePic: 'assets/profilesPic/harsh-profile-pic.jpeg',
+      aboutMe: 'A MERN stack developer eager to learn new things :)',
+      facebookURL: 'https://www.facebook.com/harshverma9988/',
+      githubURL: 'https://github.com/harshv9988',
+      linkedInURL: 'https://www.linkedin.com/in/harsh-verma-1b9772170/',
+      status: 'Learning',
+      ),
+      Member(
+
+      name: 'Praneeth Fernando',
+      year: '4rd',
+      department: 'Computer Science',
+      profilePic: 'assets/profilesPic/praneethfdo.jpg',
+      aboutMe: 'Software Engineer',
+      facebookURL: 'https://www.facebook.com/praneethfdo',
+      githubURL: 'https://github.com/praneethfdo',
+      linkedInURL: 'https://www.linkedin.com/in/praneethfdo/',
+      status: 'Working',
+    ),
+     Member(
       name: 'Keshav Kaushik',
       year: '3rd',
       department: 'CSE-Mobile Comupting',
@@ -156,7 +178,7 @@ class AllMembers {
       githubURL: 'https://github.com/keshkaush',
       linkedInURL: 'https://www.linkedin.com/in/keshkaush/',
       status: 'Java programmer',
-    ),
+),
   ];
 
   static List<Member> get members {
