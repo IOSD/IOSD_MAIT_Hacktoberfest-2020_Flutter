@@ -146,8 +146,6 @@ class AllMembers {
       linkedInURL: 'https://www.linkedin.com/in/shubhamsingla/',
       status: 'Learning',
     ),
-    Member(
-
       name: 'Harsh Verma',
       year: '3rd',
       department: 'Electronics and Communication',
@@ -169,8 +167,18 @@ class AllMembers {
       githubURL: 'https://github.com/praneethfdo',
       linkedInURL: 'https://www.linkedin.com/in/praneethfdo/',
       status: 'Working',
-
     ),
+     Member(
+      name: 'Keshav Kaushik',
+      year: '3rd',
+      department: 'CSE-Mobile Comupting',
+      profilePic: 'assets/profilesPic/keshkaush.png',
+      aboutMe: 'Flutter Developer',
+      facebookURL: 'https://www.facebook.com/adward.francis.7/',
+      githubURL: 'https://github.com/keshkaush',
+      linkedInURL: 'https://www.linkedin.com/in/keshkaush/',
+      status: 'Java programmer',
+),
   ];
 
   static List<Member> get members {
