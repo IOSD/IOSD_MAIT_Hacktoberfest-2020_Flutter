@@ -36,3 +36,4 @@ flutter:
     - family: LobsterTwo
       fonts:
         - asset: fonts/LobsterTwo-Bold.ttf
+        
